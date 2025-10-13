@@ -17,7 +17,7 @@
 						
 						<RadioButtonGroup id="radioBtnlist" columns="4" select="onRadioButtonSelectList" class="styledRadioGroup">
 							<RadioButton id="fiscalYearWise" text="Fiscal Year Wise"/>
-							<RadioButton id="quaterlyWise" text="Quaterly Wise"/>
+							<RadioButton id="quaterlyWise" text="Quarterly Wise"/>
 							<RadioButton id="customerDue" text="Customer Due"/>
 							<RadioButton id="customerDueQtrFY" text="Customer Due Qtr/FY"/>
 						</RadioButtonGroup>
